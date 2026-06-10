@@ -1,4 +1,4 @@
-# Dr. Adane Medical Clinic
+# Medical Clinic
 
 A modern and responsive clinic website built with React, Vite, Tailwind CSS, React Router, and Zustand.
 
